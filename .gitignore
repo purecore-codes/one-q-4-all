@@ -11,7 +11,7 @@ zig-out/
 *.out
 
 # Dependencies
-zig-cache/
+zig/
 
 # Logs and temp files
 *.log
